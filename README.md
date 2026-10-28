@@ -74,6 +74,16 @@ Base recommendations on the results:
 - Summary CSV files: Product, city, and monthly sales summaries.
 
 ## Skills Demonstrated
-Data cleaning, missing-value handling, duplicate detection, data validation, data transformation, feature engineering, exploratory data analysis, aggregation, visualization, and business insight generation.
+
+ Data cleaning,
+ missing-value handling,
+ duplicate detection,
+ data validation,
+ data transformation,
+ feature engineering,
+ exploratory data analysis,
+ aggregation,
+ visualization,
+ business insight generation.
 
 
